@@ -1,6 +1,6 @@
 # ImplicitNeuralReconstruction
 
-This repository is part of the Master’s Degree in Artificial Intelligence at Claude Bernard University
+This repository is part of my Master’s Degree in Artificial Intelligence at Claude Bernard University
 Lyon 1. It is based on practical work, focusing on reconstructing 3D shapes from point sets. Detailed instructions are available <a href="https://perso.liris.cnrs.fr/julie.digne/cours/tp_inr.pdf" target="_blank">here</a>.
 
 ## Traditional Reconstruction Approach
