@@ -37,5 +37,5 @@ for i in range(X.shape[0]):
 # Extract the 0-level set using marching cubes
 vertices, triangles = mcubes.marching_cubes(u, 0)
 
-# Save and visualize the mesh
+# Save the mesh
 mcubes.export_obj(vertices, triangles, 'result_hoppe.obj')
