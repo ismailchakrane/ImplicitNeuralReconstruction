@@ -1,7 +1,7 @@
 # ImplicitNeuralReconstruction
 
 This repository is part of the Master’s Degree in Artificial Intelligence at Claude Bernard University
-Lyon 1. It is based on practical work, focusing on reconstructing 3D shapes from point sets. Detailed instructions are available [here](https://perso.liris.cnrs.fr/julie.digne/cours/tp_inr.pdf).
+Lyon 1. It is based on practical work, focusing on reconstructing 3D shapes from point sets. Detailed instructions are available <a href="https://perso.liris.cnrs.fr/julie.digne/cours/tp_inr.pdf" target="_blank">here</a>.
 
 ## Traditional Reconstruction Approach
 
@@ -21,7 +21,7 @@ The output mesh will be saved as `result_hoppe.obj` and can be visualized with 3
 
 ### Create a Virtual Environment
 
-Use `conda` to manage the Python environment:
+Use `conda` for example to manage a Python environment:
 
 ```bash
 conda create -n tp_inr
